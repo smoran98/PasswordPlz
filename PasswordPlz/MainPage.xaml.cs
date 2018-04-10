@@ -19,7 +19,9 @@ using Windows.UI.ViewManagement;
 using Windows.ApplicationModel;
 using Windows.ApplicationModel.DataTransfer;
 using Windows.ApplicationModel.Core;
-using System.Security;
+using Windows.System.Profile;
+using Windows.Storage;
+using System.Runtime;
 
 // The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
 
