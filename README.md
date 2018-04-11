@@ -1,13 +1,11 @@
 # PasswordPlz
 Creating an Easy Password Generator for a mobile app development project (UWP APP)
-
+![](https://pbs.twimg.com/profile_images/867034392891457537/2_PUj0BC_400x400.jpg)
 
 
 # Windows Store
 Windows 10 and Windows 10 Mobile
 
-[![Windows Store](https://assets.windowsphone.com/f2f77ec7-9ba9-4850-9ebe-77e366d08adc/English_Get_it_Win_10_InvariantCulture_Default.png)](https://www.microsoft.com/store/apps/9p6dqd7thb09)
---------
 
 
 # Requirements
